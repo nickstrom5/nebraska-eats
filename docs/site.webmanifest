@@ -1,0 +1,21 @@
+{
+  "name": "Nebraska Eats",
+  "short_name": "NE Eats",
+  "description": "Steaks, Reubens & taquer\u00edas: a guide to 4,809 Nebraska restaurants.",
+  "start_url": "/nebraska-eats/",
+  "display": "browser",
+  "background_color": "#f5f1e7",
+  "theme_color": "#1d4e7a",
+  "icons": [
+    {
+      "src": "/nebraska-eats/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/nebraska-eats/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

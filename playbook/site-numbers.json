@@ -1,0 +1,423 @@
+{
+ "generated": "2026-11-07",
+ "domain": "https://nickstrom5.github.io/nebraska-eats",
+ "restaurants": 4809,
+ "places_incl_hidden": 5115,
+ "towns": 398,
+ "counties": 90,
+ "on_an_official_list": 1949,
+ "hand_checked_on_a_guide": 24,
+ "serves_alcohol_state_license": 1815,
+ "guide_steaks": 12,
+ "guide_reubens": 7,
+ "guide_taquerias": 4,
+ "oldest": 5,
+ "honors": 6,
+ "michelin": {},
+ "james_beard": 6,
+ "americas_classics": 1,
+ "permits_updated": "2026-11-06",
+ "city_pages": {
+  "Omaha": {
+   "restaurants": 1540,
+   "listed": 22,
+   "steaks": 9,
+   "reubens": 5,
+   "taquerias": 4,
+   "hon": 5,
+   "oldest": 3
+  }
+ },
+ "cities_without_a_page": {
+  "Lincoln": 3,
+  "Grand Island": 0,
+  "Kearney": 0,
+  "Bellevue": 0,
+  "North Platte": 0,
+  "Columbus": 1,
+  "Fremont": 0,
+  "Norfolk": 0,
+  "Hastings": 0,
+  "Scottsbluff": 0,
+  "York": 1,
+  "Ashland": 1,
+  "Holdrege": 1,
+  "Papillion": 0,
+  "La Vista": 0
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 381855,
+   "gzip": 86428
+  },
+  "data/detail-adams-county.json": {
+   "raw": 7985,
+   "gzip": 1533
+  },
+  "data/detail-antelope-county.json": {
+   "raw": 1133,
+   "gzip": 407
+  },
+  "data/detail-arthur-county.json": {
+   "raw": 398,
+   "gzip": 210
+  },
+  "data/detail-boone-county.json": {
+   "raw": 2064,
+   "gzip": 458
+  },
+  "data/detail-box-butte-county.json": {
+   "raw": 2023,
+   "gzip": 601
+  },
+  "data/detail-boyd-county.json": {
+   "raw": 1191,
+   "gzip": 294
+  },
+  "data/detail-brown-county.json": {
+   "raw": 923,
+   "gzip": 331
+  },
+  "data/detail-buffalo-county.json": {
+   "raw": 15238,
+   "gzip": 2884
+  },
+  "data/detail-burt-county.json": {
+   "raw": 1554,
+   "gzip": 438
+  },
+  "data/detail-butler-county.json": {
+   "raw": 1916,
+   "gzip": 363
+  },
+  "data/detail-cass-county.json": {
+   "raw": 5170,
+   "gzip": 961
+  },
+  "data/detail-cedar-county.json": {
+   "raw": 1710,
+   "gzip": 411
+  },
+  "data/detail-chase-county.json": {
+   "raw": 886,
+   "gzip": 340
+  },
+  "data/detail-cherry-county.json": {
+   "raw": 1567,
+   "gzip": 479
+  },
+  "data/detail-cheyenne-county.json": {
+   "raw": 4211,
+   "gzip": 935
+  },
+  "data/detail-clay-county.json": {
+   "raw": 1612,
+   "gzip": 428
+  },
+  "data/detail-colfax-county.json": {
+   "raw": 2105,
+   "gzip": 489
+  },
+  "data/detail-cuming-county.json": {
+   "raw": 2813,
+   "gzip": 642
+  },
+  "data/detail-custer-county.json": {
+   "raw": 2425,
+   "gzip": 585
+  },
+  "data/detail-dakota-county.json": {
+   "raw": 5489,
+   "gzip": 1106
+  },
+  "data/detail-dawes-county.json": {
+   "raw": 2962,
+   "gzip": 724
+  },
+  "data/detail-dawson-county.json": {
+   "raw": 5893,
+   "gzip": 1375
+  },
+  "data/detail-deuel-county.json": {
+   "raw": 607,
+   "gzip": 306
+  },
+  "data/detail-dixon-county.json": {
+   "raw": 2229,
+   "gzip": 383
+  },
+  "data/detail-dodge-county.json": {
+   "raw": 11269,
+   "gzip": 1995
+  },
+  "data/detail-douglas-county.json": {
+   "raw": 344785,
+   "gzip": 38310
+  },
+  "data/detail-dundy-county.json": {
+   "raw": 578,
+   "gzip": 214
+  },
+  "data/detail-fillmore-county.json": {
+   "raw": 1760,
+   "gzip": 384
+  },
+  "data/detail-franklin-county.json": {
+   "raw": 835,
+   "gzip": 266
+  },
+  "data/detail-frontier-county.json": {
+   "raw": 369,
+   "gzip": 245
+  },
+  "data/detail-furnas-county.json": {
+   "raw": 1475,
+   "gzip": 376
+  },
+  "data/detail-gage-county.json": {
+   "raw": 4730,
+   "gzip": 959
+  },
+  "data/detail-garden-county.json": {
+   "raw": 722,
+   "gzip": 281
+  },
+  "data/detail-garfield-county.json": {
+   "raw": 853,
+   "gzip": 282
+  },
+  "data/detail-gosper-county.json": {
+   "raw": 194,
+   "gzip": 165
+  },
+  "data/detail-grant-county.json": {
+   "raw": 50,
+   "gzip": 69
+  },
+  "data/detail-greeley-county.json": {
+   "raw": 607,
+   "gzip": 226
+  },
+  "data/detail-hall-county.json": {
+   "raw": 18570,
+   "gzip": 3306
+  },
+  "data/detail-hamilton-county.json": {
+   "raw": 1941,
+   "gzip": 523
+  },
+  "data/detail-harlan-county.json": {
+   "raw": 914,
+   "gzip": 342
+  },
+  "data/detail-hayes-county.json": {
+   "raw": 203,
+   "gzip": 172
+  },
+  "data/detail-hitchcock-county.json": {
+   "raw": 396,
+   "gzip": 194
+  },
+  "data/detail-holt-county.json": {
+   "raw": 2685,
+   "gzip": 652
+  },
+  "data/detail-hooker-county.json": {
+   "raw": 79,
+   "gzip": 74
+  },
+  "data/detail-howard-county.json": {
+   "raw": 1791,
+   "gzip": 459
+  },
+  "data/detail-jefferson-county.json": {
+   "raw": 2305,
+   "gzip": 544
+  },
+  "data/detail-johnson-county.json": {
+   "raw": 1174,
+   "gzip": 361
+  },
+  "data/detail-kearney-county.json": {
+   "raw": 1412,
+   "gzip": 458
+  },
+  "data/detail-keith-county.json": {
+   "raw": 3707,
+   "gzip": 823
+  },
+  "data/detail-keya-paha-county.json": {
+   "raw": 347,
+   "gzip": 182
+  },
+  "data/detail-kimball-county.json": {
+   "raw": 1219,
+   "gzip": 436
+  },
+  "data/detail-knox-county.json": {
+   "raw": 2168,
+   "gzip": 404
+  },
+  "data/detail-lancaster-county.json": {
+   "raw": 79311,
+   "gzip": 12826
+  },
+  "data/detail-lincoln-county.json": {
+   "raw": 9025,
+   "gzip": 1739
+  },
+  "data/detail-loup-county.json": {
+   "raw": 367,
+   "gzip": 186
+  },
+  "data/detail-madison-county.json": {
+   "raw": 10655,
+   "gzip": 1947
+  },
+  "data/detail-mcpherson-county.json": {
+   "raw": 50,
+   "gzip": 69
+  },
+  "data/detail-merrick-county.json": {
+   "raw": 1736,
+   "gzip": 483
+  },
+  "data/detail-morrill-county.json": {
+   "raw": 1456,
+   "gzip": 392
+  },
+  "data/detail-nance-county.json": {
+   "raw": 702,
+   "gzip": 218
+  },
+  "data/detail-nemaha-county.json": {
+   "raw": 2240,
+   "gzip": 525
+  },
+  "data/detail-nuckolls-county.json": {
+   "raw": 1090,
+   "gzip": 352
+  },
+  "data/detail-otoe-county.json": {
+   "raw": 4451,
+   "gzip": 911
+  },
+  "data/detail-pawnee-county.json": {
+   "raw": 771,
+   "gzip": 259
+  },
+  "data/detail-perkins-county.json": {
+   "raw": 844,
+   "gzip": 274
+  },
+  "data/detail-phelps-county.json": {
+   "raw": 2777,
+   "gzip": 809
+  },
+  "data/detail-pierce-county.json": {
+   "raw": 1491,
+   "gzip": 431
+  },
+  "data/detail-platte-county.json": {
+   "raw": 9890,
+   "gzip": 1827
+  },
+  "data/detail-polk-county.json": {
+   "raw": 1030,
+   "gzip": 314
+  },
+  "data/detail-red-willow-county.json": {
+   "raw": 2453,
+   "gzip": 668
+  },
+  "data/detail-richardson-county.json": {
+   "raw": 2039,
+   "gzip": 477
+  },
+  "data/detail-rock-county.json": {
+   "raw": 79,
+   "gzip": 82
+  },
+  "data/detail-saline-county.json": {
+   "raw": 3715,
+   "gzip": 770
+  },
+  "data/detail-sarpy-county.json": {
+   "raw": 35034,
+   "gzip": 6499
+  },
+  "data/detail-saunders-county.json": {
+   "raw": 4723,
+   "gzip": 994
+  },
+  "data/detail-scotts-bluff-county.json": {
+   "raw": 9335,
+   "gzip": 1824
+  },
+  "data/detail-seward-county.json": {
+   "raw": 3783,
+   "gzip": 878
+  },
+  "data/detail-sheridan-county.json": {
+   "raw": 2011,
+   "gzip": 437
+  },
+  "data/detail-sherman-county.json": {
+   "raw": 507,
+   "gzip": 256
+  },
+  "data/detail-sioux-county.json": {
+   "raw": 241,
+   "gzip": 198
+  },
+  "data/detail-stanton-county.json": {
+   "raw": 649,
+   "gzip": 261
+  },
+  "data/detail-thayer-county.json": {
+   "raw": 2268,
+   "gzip": 465
+  },
+  "data/detail-thomas-county.json": {
+   "raw": 367,
+   "gzip": 188
+  },
+  "data/detail-thurston-county.json": {
+   "raw": 858,
+   "gzip": 259
+  },
+  "data/detail-valley-county.json": {
+   "raw": 1554,
+   "gzip": 417
+  },
+  "data/detail-washington-county.json": {
+   "raw": 3505,
+   "gzip": 792
+  },
+  "data/detail-wayne-county.json": {
+   "raw": 2696,
+   "gzip": 684
+  },
+  "data/detail-webster-county.json": {
+   "raw": 986,
+   "gzip": 347
+  },
+  "data/detail-wheeler-county.json": {
+   "raw": 569,
+   "gzip": 206
+  },
+  "data/detail-york-county.json": {
+   "raw": 4207,
+   "gzip": 1112
+  },
+  "data/ids.json": {
+   "raw": 62545,
+   "gzip": 36620
+  },
+  "data/ne_shapes.json": {
+   "raw": 28525,
+   "gzip": 6265
+  }
+ }
+}

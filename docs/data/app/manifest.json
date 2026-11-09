@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "version": "2026-11-07.1",
+ "records_through": "2026-11-07",
+ "published": "2026-11-07T14:48:16Z",
+ "min_app_build": 1,
+ "files": {
+  "detail-central": {
+   "path": "detail-central-ed421a66aa84.json",
+   "sha256": "ed421a66aa8454fd3518ede0aa43f0d92eaacf4a9e7e7e1f997968bd719a689a",
+   "bytes": 83341,
+   "rows": 730
+  },
+  "detail-lincoln-southeast": {
+   "path": "detail-lincoln-southeast-de6917dc092f.json",
+   "sha256": "de6917dc092f571dce76167a7fefc550c7f72b14b9f78860ed57fae0ccadf332",
+   "bytes": 133435,
+   "rows": 1123
+  },
+  "detail-northeast": {
+   "path": "detail-northeast-73fc6eea0957.json",
+   "sha256": "73fc6eea095760c1a47b90ae20a20c3a0ad470a38942748c53eecd4561a1f400",
+   "bytes": 54932,
+   "rows": 455
+  },
+  "detail-omaha-metro": {
+   "path": "detail-omaha-metro-2ab7cf4b64a2.json",
+   "sha256": "2ab7cf4b64a2e985ee70412d5c43f2e75373bca918546ab58fbb9e1e2623ecc2",
+   "bytes": 418880,
+   "rows": 2249
+  },
+  "detail-sandhills-north": {
+   "path": "detail-sandhills-north-6bfecec40a0a.json",
+   "sha256": "6bfecec40a0a7864b1e51dd37639a9d05d9c07f3400f29b64ce8afe7963a2e4e",
+   "bytes": 8726,
+   "rows": 76
+  },
+  "detail-west-panhandle": {
+   "path": "detail-west-panhandle-58f47ad52ca6.json",
+   "sha256": "58f47ad52ca66fe558c9593bc8e070bac9f2f607397a0e78a95a04f44c2aed4d",
+   "bytes": 48561,
+   "rows": 425
+  },
+  "places": {
+   "path": "places-af95db3a3a9a.json",
+   "sha256": "af95db3a3a9a552c6eec5ae221d084c563bb3759bf74c539b42d71f0a3db6d37",
+   "bytes": 856253,
+   "rows": 5115
+  }
+ },
+ "counts": {
+  "places": 5115,
+  "files": 7,
+  "bytes": 1604128,
+  "restaurants": 4809
+ },
+ "previous": {
+  "version": "2026-11-06.3",
+  "files": {
+   "detail-central": "detail-central-ed421a66aa84.json",
+   "detail-lincoln-southeast": "detail-lincoln-southeast-de6917dc092f.json",
+   "detail-northeast": "detail-northeast-73fc6eea0957.json",
+   "detail-omaha-metro": "detail-omaha-metro-b433663579a5.json",
+   "detail-sandhills-north": "detail-sandhills-north-6bfecec40a0a.json",
+   "detail-west-panhandle": "detail-west-panhandle-58f47ad52ca6.json",
+   "places": "places-0645f5fcc80a.json"
+  }
+ }
+}
